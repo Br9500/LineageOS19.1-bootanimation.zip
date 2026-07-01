@@ -1,0 +1,1 @@
+# LineageOS19.1-bootanimation.zip
