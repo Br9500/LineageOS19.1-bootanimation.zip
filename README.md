@@ -1,11 +1,9 @@
-# LineageOS19.1-bootanimation.zip
+# LineageOS 19.1 Boot Animation ZIP
 
-Extract from SM-G930 herolte aka galaxy s7
+Extracted from SM-G930 (herolte), also known as Galaxy S7.
 
-file-path= "/product/media/bootanimation.zip"
-
-ROM URL: https://ivanmeler.github.io/devices/herolte.html
-
-Resolution = 720 × 240
+- **File path:** `/product/media/bootanimation.zip`  
+- **ROM URL:** https://ivanmeler.github.io/devices/herolte.html  
+- **Resolution:** 720 × 240  
 
 ![Bootanimation](preview.gif)
