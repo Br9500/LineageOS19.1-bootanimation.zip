@@ -2,3 +2,4 @@
 Extract from SM-G930 herolte aka galaxy s7
 rom url: https://ivanmeler.github.io/devices/herolte.html
 ![Bootanimation](preview.gif)
+Resolution = 720 × 240
